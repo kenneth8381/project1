@@ -11,13 +11,13 @@
 
 ### Required
 
-* Have the AI respond to user input
-* Do at least 3 different things
-* One of the commands must utilize the list of people in the class to send a reply
-* Use at least 1 conditional to change the response
-* Leverage a for loop to iterate over a collection
-* Use a random component
-* Go above and beyond simple `if/else` statements
+* Have the AI respond to user input good
+* Do at least 3 different things good 
+* One of the commands must utilize the list of people in the class to send a reply good
+* Use at least 1 conditional to change the response good
+* Leverage a for loop to iterate over a collection good 
+* Use a random component (random array of jokes)
+* Go above and beyond simple `if/else` statements (Switch Statements)
 
 ### Stretch Goals
 
